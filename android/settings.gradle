@@ -1,3 +1,0 @@
-rootProject.name = 'chat4'
-
-include ':app'

@@ -27,7 +27,14 @@ project.xcworkspace
 build/
 .idea
 .gradle
+.idea/
+__tests__/
+android/
+ios/
+gen/
 local.properties
+index.android.js
+index.ios.js
 *.iml
 
 # node.js
